@@ -3,3 +3,4 @@ Description: using data obtained from http://insideairbnb.com/get-the-data.html 
 
 Hypothesis: hosts increase their price after they become superhosts.
 
+We used a paired t-test to determine the p-value associated with our host-to-superhost sample before-and-after the change in status occurred.
