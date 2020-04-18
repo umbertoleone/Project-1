@@ -6,3 +6,5 @@ Hypothesis: hosts increase their price after they become superhosts.
 We used a paired t-test to determine the p-value associated with our host-to-superhost sample before-and-after the change in status occurred.
 
 A paired t-test was used because our two samples from 2017 & 2020 had the same number of observations (host-to-superhost inflection points). Therefore, the two samples from different points in time could be paired with one another ... Before-and-after observations on the same subjects.
+
+After we isolated the inflection points which represented the change in status from host-to-superhost, we compared price changes associated with these shifts in status.
